@@ -49,4 +49,4 @@ npm run dev
 This will start the React frontend on `http://localhost:5173`.
 ```
 
-Just copy everything inside the code block above and paste it directly into your README.md file!
+
